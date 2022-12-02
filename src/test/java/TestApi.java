@@ -22,6 +22,7 @@ public class TestApi {
         //System.out.println(data);
         System.out.println("hello,world");
         System.out.println("hello,world1");
+        System.out.println("github更新了");
         
     }
 }
